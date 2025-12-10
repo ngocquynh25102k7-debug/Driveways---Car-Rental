@@ -556,7 +556,7 @@ body {
                     }
                 }
 
-                .about-details { /* Using class for bottom wrapper too */
+                .about-details {
                     display: flex;
                     flex-direction: column;
                     gap: 32px;
